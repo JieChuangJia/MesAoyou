@@ -1,0 +1,11 @@
+E:\Projects\遨优电池ERP\代码\AYMES\TestWcf\obj\Release\TestWcf.csprojResolveAssemblyReference.cache
+E:\Projects\遨优电池ERP\代码\AYMES\TestWcf\obj\Release\TestWcf.Form1.resources
+E:\Projects\遨优电池ERP\代码\AYMES\TestWcf\obj\Release\TestWcf.Properties.Resources.resources
+E:\Projects\遨优电池ERP\代码\AYMES\TestWcf\obj\Release\TestWcf.csproj.GenerateResource.Cache
+E:\Projects\遨优电池ERP\代码\AYMES\TestWcf\bin\Release\TestWcf.exe
+E:\Projects\遨优电池ERP\代码\AYMES\TestWcf\bin\Release\TestWcf.pdb
+E:\Projects\遨优电池ERP\代码\AYMES\TestWcf\bin\Release\AYWCFClient.dll
+E:\Projects\遨优电池ERP\代码\AYMES\TestWcf\bin\Release\AYWCFClient.pdb
+E:\Projects\遨优电池ERP\代码\AYMES\TestWcf\obj\Release\TestWcf.exe
+E:\Projects\遨优电池ERP\代码\AYMES\TestWcf\obj\Release\TestWcf.pdb
+E:\Projects\遨优电池ERP\代码\AYMES\TestWcf\bin\Release\TestWcf.exe.config

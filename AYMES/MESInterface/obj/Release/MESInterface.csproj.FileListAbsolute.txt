@@ -1,0 +1,15 @@
+E:\Projects\遨优电池ERP\代码\AYMES\MESInterface\bin\Release\MESInterface.dll
+E:\Projects\遨优电池ERP\代码\AYMES\MESInterface\bin\Release\MESInterface.pdb
+E:\Projects\遨优电池ERP\代码\AYMES\MESInterface\obj\Release\MESInterface.csprojResolveAssemblyReference.cache
+E:\Projects\遨优电池ERP\代码\AYMES\MESInterface\obj\Release\MESInterface.dll
+E:\Projects\遨优电池ERP\代码\AYMES\MESInterface\obj\Release\MESInterface.pdb
+E:\NpWork\others\遨优\代码\AYMES\MESInterface\bin\Release\MESInterface.dll
+E:\NpWork\others\遨优\代码\AYMES\MESInterface\bin\Release\MESInterface.pdb
+E:\NpWork\others\遨优\代码\AYMES\MESInterface\obj\Release\MESInterface.csprojResolveAssemblyReference.cache
+E:\NpWork\others\遨优\代码\AYMES\MESInterface\obj\Release\MESInterface.dll
+E:\NpWork\others\遨优\代码\AYMES\MESInterface\obj\Release\MESInterface.pdb
+E:\workspace\项目\之信遨优项目\代码\AYMES0103\AYMES\MESInterface\bin\Release\MESInterface.dll
+E:\workspace\项目\之信遨优项目\代码\AYMES0103\AYMES\MESInterface\bin\Release\MESInterface.pdb
+E:\workspace\项目\之信遨优项目\代码\AYMES0103\AYMES\MESInterface\obj\Release\MESInterface.csprojResolveAssemblyReference.cache
+E:\workspace\项目\之信遨优项目\代码\AYMES0103\AYMES\MESInterface\obj\Release\MESInterface.dll
+E:\workspace\项目\之信遨优项目\代码\AYMES0103\AYMES\MESInterface\obj\Release\MESInterface.pdb

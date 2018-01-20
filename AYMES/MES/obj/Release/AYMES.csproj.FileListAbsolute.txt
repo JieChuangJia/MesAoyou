@@ -1,0 +1,11 @@
+E:\Projects\遨优电池ERP\代码\AYMES\AYMES\bin\Release\AYMES.exe
+E:\Projects\遨优电池ERP\代码\AYMES\AYMES\bin\Release\AYMES.pdb
+E:\Projects\遨优电池ERP\代码\AYMES\AYMES\obj\Release\AYMES.Properties.Resources.resources
+E:\Projects\遨优电池ERP\代码\AYMES\AYMES\obj\Release\AYMES.csproj.GenerateResource.Cache
+E:\Projects\遨优电池ERP\代码\AYMES\AYMES\obj\Release\AYMES.exe.licenses
+E:\Projects\遨优电池ERP\代码\AYMES\AYMES\obj\Release\AYMES.exe
+E:\Projects\遨优电池ERP\代码\AYMES\AYMES\obj\Release\AYMES.pdb
+E:\Projects\遨优电池ERP\代码\AYMES\AYMES\obj\Release\AYMES.csprojResolveAssemblyReference.cache
+E:\Projects\遨优电池ERP\代码\WMS\AYMES\obj\Release\AYMES.exe
+E:\Projects\遨优电池ERP\代码\WMS\AYMES\obj\Release\AYMES.pdb
+E:\Projects\遨优电池ERP\代码\AYMES\AYMES\obj\Release\AYMES.MainView.resources

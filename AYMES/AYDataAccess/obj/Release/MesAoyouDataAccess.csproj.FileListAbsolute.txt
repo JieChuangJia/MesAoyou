@@ -1,0 +1,4 @@
+E:\tongyan\项目\MesAoyou\MesAoyouDataAccess\bin\Release\MesAoyouDataAccess.dll
+E:\tongyan\项目\MesAoyou\MesAoyouDataAccess\bin\Release\MesAoyouDataAccess.pdb
+E:\tongyan\项目\MesAoyou\MesAoyouDataAccess\obj\Release\MesAoyouDataAccess.dll
+E:\tongyan\项目\MesAoyou\MesAoyouDataAccess\obj\Release\MesAoyouDataAccess.pdb

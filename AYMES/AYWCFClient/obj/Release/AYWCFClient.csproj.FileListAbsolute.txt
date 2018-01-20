@@ -1,0 +1,4 @@
+E:\Projects\遨优电池ERP\代码\AYMES\AYWCFClient\bin\Release\AYWCFClient.dll
+E:\Projects\遨优电池ERP\代码\AYMES\AYWCFClient\bin\Release\AYWCFClient.pdb
+E:\Projects\遨优电池ERP\代码\AYMES\AYWCFClient\obj\Release\AYWCFClient.dll
+E:\Projects\遨优电池ERP\代码\AYMES\AYWCFClient\obj\Release\AYWCFClient.pdb

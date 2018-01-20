@@ -1,0 +1,9 @@
+E:\tongyan\项目\MesAoyou\MesAoyouPresenter\bin\Release\MesAoyouPresenter.dll
+E:\tongyan\项目\MesAoyou\MesAoyouPresenter\bin\Release\MesAoyouPresenter.pdb
+E:\tongyan\项目\MesAoyou\MesAoyouPresenter\bin\Release\MesAoyouDataAccess.dll
+E:\tongyan\项目\MesAoyou\MesAoyouPresenter\bin\Release\MesAoyouIView.dll
+E:\tongyan\项目\MesAoyou\MesAoyouPresenter\bin\Release\MesAoyouDataAccess.pdb
+E:\tongyan\项目\MesAoyou\MesAoyouPresenter\bin\Release\MesAoyouIView.pdb
+E:\tongyan\项目\MesAoyou\MesAoyouPresenter\obj\Release\MesAoyouPresenter.csprojResolveAssemblyReference.cache
+E:\tongyan\项目\MesAoyou\MesAoyouPresenter\obj\Release\MesAoyouPresenter.dll
+E:\tongyan\项目\MesAoyou\MesAoyouPresenter\obj\Release\MesAoyouPresenter.pdb

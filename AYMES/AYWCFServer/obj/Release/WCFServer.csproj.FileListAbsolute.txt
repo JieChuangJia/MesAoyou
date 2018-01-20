@@ -1,0 +1,6 @@
+E:\Projects\遨优电池ERP\代码\WMS\WCFServer\bin\Release\WCFServer.dll.config
+E:\Projects\遨优电池ERP\代码\WMS\WCFServer\bin\Release\WCFServer.dll
+E:\Projects\遨优电池ERP\代码\WMS\WCFServer\bin\Release\WCFServer.pdb
+E:\Projects\遨优电池ERP\代码\WMS\WCFServer\obj\Release\WCFServer.csprojResolveAssemblyReference.cache
+E:\Projects\遨优电池ERP\代码\WMS\WCFServer\obj\Release\WCFServer.dll
+E:\Projects\遨优电池ERP\代码\WMS\WCFServer\obj\Release\WCFServer.pdb

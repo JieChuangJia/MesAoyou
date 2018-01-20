@@ -1,0 +1,15 @@
+E:\Projects\遨优电池ERP\代码\AYMES\AYDataAccess\bin\Release\AYDataAccess.dll
+E:\Projects\遨优电池ERP\代码\AYMES\AYDataAccess\bin\Release\AYDataAccess.pdb
+E:\Projects\遨优电池ERP\代码\AYMES\AYDataAccess\obj\Release\AYDataAccess.dll
+E:\Projects\遨优电池ERP\代码\AYMES\AYDataAccess\obj\Release\AYDataAccess.pdb
+E:\Projects\遨优电池ERP\代码\AYMES\AYDataAccess\obj\Release\AYDataAccess.csprojResolveAssemblyReference.cache
+E:\NpWork\others\遨优\代码\AYMES\AYDataAccess\bin\Release\AYDataAccess.dll
+E:\NpWork\others\遨优\代码\AYMES\AYDataAccess\bin\Release\AYDataAccess.pdb
+E:\NpWork\others\遨优\代码\AYMES\AYDataAccess\obj\Release\AYDataAccess.csprojResolveAssemblyReference.cache
+E:\NpWork\others\遨优\代码\AYMES\AYDataAccess\obj\Release\AYDataAccess.dll
+E:\NpWork\others\遨优\代码\AYMES\AYDataAccess\obj\Release\AYDataAccess.pdb
+E:\workspace\项目\之信遨优项目\代码\AYMES0103\AYMES\AYDataAccess\bin\Release\AYDataAccess.dll
+E:\workspace\项目\之信遨优项目\代码\AYMES0103\AYMES\AYDataAccess\bin\Release\AYDataAccess.pdb
+E:\workspace\项目\之信遨优项目\代码\AYMES0103\AYMES\AYDataAccess\obj\Release\AYDataAccess.csprojResolveAssemblyReference.cache
+E:\workspace\项目\之信遨优项目\代码\AYMES0103\AYMES\AYDataAccess\obj\Release\AYDataAccess.dll
+E:\workspace\项目\之信遨优项目\代码\AYMES0103\AYMES\AYDataAccess\obj\Release\AYDataAccess.pdb
